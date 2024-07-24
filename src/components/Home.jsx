@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <div className="flex ml-[10%] gap-3 mt-[1%] overflow-hidden">
       <div className="w-[60%] ">
-        <h1 className="text-6xl font-extrabold xl:text-8xl md:text-7xl 2xl:text-9xl ">
+        <h1 className="text-6xl font-extrabold xl:text-8xl md:text-7xl  ">
           YOUR FEET <br /> DESERVE <br />
           THE BEST
         </h1>
